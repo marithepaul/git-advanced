@@ -1,1 +1,2 @@
 "This is file B" 
+"Conflicting change in feature-addition branch" 
